@@ -1,0 +1,6 @@
+server:
+  port: 9000
+
+airtime-purchase:
+  url: https://billerstest.xpresspayments.com:9603/api/v1/airtime/fulfil
+  public-key: n1QoIz02g9Axs04HFbxJTaaiojEPNSnf_CVASPUB
