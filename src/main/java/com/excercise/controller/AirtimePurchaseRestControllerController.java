@@ -10,10 +10,7 @@ import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
-/**
- * @author Dinneya Charles
- * DATE: 17.07.23
- */
+
 @RestController
 @RequestMapping("/airtime-purchase")
 @RequiredArgsConstructor
