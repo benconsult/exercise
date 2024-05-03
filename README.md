@@ -1,2 +1,3 @@
-# exercise
-Xpress Job Excercise
+# Express Payment API for Airtime Recharge
+
+- Java , Spring Boot, Postman
